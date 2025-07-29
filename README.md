@@ -9,7 +9,7 @@ This project involves the creation of an interactive dashboard in Power BI to an
 
 ## Data Source
 
-The dataset used for this analysis is [Mention your data source here, e.g., a CSV file named 'hr_data.csv']. It contains employee information such as job role, age, gender, education level, and attrition status.
+The dataset used for this analysis is https://github.com/sriks023/Power-BI-HR-Attrition-Analysis/blob/main/HR%20Analytics%20Data_Exp11%20(2).csv. It contains employee information such as job role, age, gender, education level, and attrition status.
 
 ## Tools Used
 
