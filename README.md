@@ -13,12 +13,18 @@ The dataset used for this analysis is [Mention your data source here, e.g., a CS
 
 ## Tools Used
 
-* **Power BI:** For data modeling, analysis, and dashboard creation.
+* **Power BI:** For data modelling, analysis, and dashboard creation.
 * **Microsoft Excel:** For initial data cleaning and preparation (if applicable).
 
 ## Dashboard Interpretation & Key Insights
 
-*(This is where you paste the detailed interpretation from Part 2 below)*
+*(Overall Workforce Summary:
+
+Total Employees: The company has a total of 1,470 employees.
+Gender Distribution: 
+*The workforce is predominantly male. 
+*There are 961 male employees (65.37%) and 511 female employees, though the chart for this is partially obscured. Attrition data also shows a higher count for males (150) compared to females (87).
+*Age Distribution: The largest concentration of employees, for both males and females, appears to be in the 30 to 40 age range, with a peak around age 35.)*
 
 ## How To Use
 
