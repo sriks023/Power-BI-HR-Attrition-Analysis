@@ -1,7 +1,7 @@
 # HR Attrition Analysis Dashboard
 
 ### Live Dashboard Screenshot
-![Dashboard Screenshot]([Screenshot 2025-07-29 191840.png])
+![Dashboard Screenshot](HR Analytics Dashboard.png)
 
 ## Project Overview
 
