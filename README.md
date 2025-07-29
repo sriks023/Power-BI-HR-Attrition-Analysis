@@ -1,7 +1,7 @@
 # HR Attrition Analysis Dashboard
 
 ### Live Dashboard Screenshot
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot]([dashboard-screenshot.png](https://github.com/sriks023/Power-BI-HR-Attrition-Analysis/blob/main/Screenshot%202025-07-29%20191840.png))
 
 ## Project Overview
 
